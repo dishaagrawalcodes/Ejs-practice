@@ -1,62 +1,64 @@
- ../../.android/
-        ../../.bash_history
-        ../../.gitconfig
-        ../../.gradle/
-        ../../.lesshst
-        ../../.node_repl_history
-        ../../.ssh/
-        ../../.viminfo
-        ../../.vscode/
-        ../../3D Objects/
-        ../../AndroidSDK/
-        ../../AndroidStudioProjects/
-        ../../AppData/
-        ../../Contacts/
-        ../../Desktop/
-        ../../Documents/
-        ../../Downloads/
-        ../../Favorites/
-        ../../IntelGraphicsProfiles/
-        ../../Links/
-        ../../Music/
-        ../../NTUSER.DAT
-        ../../NTUSER.DAT{61251093-d232-11ee-b13f-a008c0a2b9e9}.TM.blf
-        ../../NTUSER.DAT{61251093-d232-11ee-b13f-a008c0a2b9e9}.TMContainer00000000000000000001.regtrans-ms
-        ../../NTUSER.DAT{61251093-d232-11ee-b13f-a008c0a2b9e9}.TMContainer00000000000000000002.regtrans-ms
-        ../../OneDrive/
-        ../CSS/
-        ../Camera Roll/
-        ../DSA for C++/
-        ../FETCH-API/
-        ../Git &github/
-        ../JAVASCRIPT/
-        ../MMIL TASK/
-        ../Portfolio/
-        ../Saved Pictures/
-        ../Screenshots/
-        ../Z PRACTICE/
-        ../calculator/
-        ../complete wen development boatcamp/
-        ../desktop.ini
-        ../final spotify clone - Copy/
-        ../final spotify clone/
-        ../landing page/
-        ../news website/
-        ../rajat shadi album/
-        ../rajat shadi/
-        ../spotify (2).zip
-        ../spotify clone/
-        ../spotify.zip
-        ../spotify/
-        ../youtube clone/
-        ../z projects/
-        ../../Saved Games/
-        ../../Searches/
-        ../../Videos/
-        ../../gitone/
-        ../../gittwo/
-        ../../mintty.2024-06-30_00-22-03.png
-        ../../ntuser.dat.LOG1
-        ../../ntuser.dat.LOG2
-        ../../ntuser.ini
-        ../../project/
+# Ignore files and directories from parent directories
+/../../.android/
+/../../.bash_history
+/../../.gitconfig
+/../../.gradle/
+/../../.lesshst
+/../../.node_repl_history
+/../../.ssh/
+/../../.viminfo
+/../../.vscode/
+/../../3D Objects/
+/../../AndroidSDK/
+/../../AndroidStudioProjects/
+/../../AppData/
+/../../Contacts/
+/../../Desktop/
+/../../Documents/
+/../../Downloads/
+/../../Favorites/
+/../../IntelGraphicsProfiles/
+/../../Links/
+/../../Music/
+/../../NTUSER.DAT
+/../../NTUSER.DAT{61251093-d232-11ee-b13f-a008c0a2b9e9}.TM.blf
+/../../NTUSER.DAT{61251093-d232-11ee-b13f-a008c0a2b9e9}.TMContainer00000000000000000001.regtrans-ms
+/../../NTUSER.DAT{61251093-d232-11ee-b13f-a008c0a2b9e9}.TMContainer00000000000000000002.regtrans-ms
+/../../OneDrive/
+/../CSS/
+/../Camera Roll/
+/../DSA for C++/
+/../FETCH-API/
+/../Git &github/.gitignore
+/../Git &github/.vscode/
+/../Git &github/index.html
+/../JAVASCRIPT/
+/../MMIL TASK/
+/../Portfolio/
+/../Saved Pictures/
+/../Screenshots/
+/../Z PRACTICE/
+/../complete wen development boatcamp/
+/../desktop.ini
+/../final spotify clone - Copy/
+/../final spotify clone/
+/../landing page/
+/../news website/
+/../rajat shadi album/
+/../rajat shadi/
+/../spotify (2).zip
+/../spotify clone/
+/../spotify.zip
+/../spotify/
+/../youtube clone/
+/../z projects/
+/../../Saved Games/
+/../../Searches/
+/../../Videos/
+/../../gitone/
+/../../gittwo/
+/../../mintty.2024-06-30_00-22-03.png
+/../../ntuser.dat.LOG1
+/../../ntuser.dat.LOG2
+/../../ntuser.ini
+/../../project/

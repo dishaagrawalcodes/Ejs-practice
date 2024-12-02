@@ -1,1 +1,0 @@
-const hero =[shaktiman,spiderman,ironman]

@@ -3,7 +3,8 @@ const app = express();
 const port = 3000;
 app.get("/", (req, res) => {
     const data = {
-      title: "EJS Tags",
+      title: "EJS Tags.",
+    
       seconds: new Date("2023-12-10T14:30:46").getSeconds(),
       items: ["apple", "banana", "cherry"],
       htmlContent: "<strong>This is some strong text</strong>",
